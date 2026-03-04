@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Current File (Conda Base)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "python": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+      "cwd": "${workspaceFolder}",
+      "justMyCode": true
+    }
+  ]
+}

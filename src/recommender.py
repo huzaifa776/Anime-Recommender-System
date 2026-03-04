@@ -1,4 +1,9 @@
-from langchain.chains import RetrievalQA
+import os
+
+os.environ.setdefault("TRANSFORMERS_NO_TF", "1")
+os.environ.setdefault("USE_TF", "0")
+
+from langchain_classic.chains import RetrievalQA
 from langchain_groq import ChatGroq
 from src.prompt_template import get_anime_prompt
 
