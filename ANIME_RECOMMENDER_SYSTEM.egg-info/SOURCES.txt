@@ -1,6 +1,0 @@
-setup.py
-ANIME_RECOMMENDER_SYSTEM.egg-info/PKG-INFO
-ANIME_RECOMMENDER_SYSTEM.egg-info/SOURCES.txt
-ANIME_RECOMMENDER_SYSTEM.egg-info/dependency_links.txt
-ANIME_RECOMMENDER_SYSTEM.egg-info/requires.txt
-ANIME_RECOMMENDER_SYSTEM.egg-info/top_level.txt
